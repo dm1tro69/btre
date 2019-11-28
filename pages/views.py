@@ -1,12 +1,17 @@
 from django.shortcuts import render
 from listings.models import Listing
 from realtors.models import Realtor
+from listings.choises import price_choices, state_choices, bedroom_choices
 
 # Create your views here.
 
 def index(request):
     listings = Listing.objects.order_by('-list_date').filter(is_pablished=True)[:3]
-    context = {'listings': listings}
+    context = {'listings': listings,
+               'state_choices':state_choices,
+               'bedroom_choices': bedroom_choices,
+               'price_choices': price_choices,
+               }
     return render(request, 'pages/index.html', context)
 
 
