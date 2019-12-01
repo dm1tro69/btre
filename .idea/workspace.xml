@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c49edc1-277e-478b-a7fa-2ef2acd5579c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/accounts/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/accounts/dashboard.html" afterDir="false" />
-    </list>
+    <list default="true" id="7c49edc1-277e-478b-a7fa-2ef2acd5579c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,27 +166,6 @@
               <item name="btre" type="b2602c69:ProjectViewProjectNode" />
               <item name="btre" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="contacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="btre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="btre" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,20 +231,19 @@
       <workItem from="1574542912083" duration="919000" />
       <workItem from="1574582480334" duration="54587000" />
       <workItem from="1574955699436" duration="41120000" />
-      <workItem from="1575188458671" duration="15396000" />
+      <workItem from="1575188458671" duration="16298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112022000" />
+    <option name="totallyTimeSpent" value="112924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1866" height="910" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.12706271" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.12706271" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -280,7 +255,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="DB Execution Console" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32945737" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49944994" visible="true" weight="0.2777778" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49944994" visible="true" weight="0.2777778" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50055003" side_tool="true" weight="0.2997416" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

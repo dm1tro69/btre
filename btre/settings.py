@@ -153,3 +153,8 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = 'dm1tr0pyth@gmail.com'
 EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
+
+try:
+    from .local_settings import *
+except ImportError:
+    pass
